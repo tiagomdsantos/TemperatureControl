@@ -1,0 +1,19 @@
+C:\Users\tiago\Dropbox\PI - Supervisório\PC\Supervisório\Supervisório\bin\Debug\Supervisório.exe.config
+C:\Users\tiago\Dropbox\PI - Supervisório\PC\Supervisório\Supervisório\bin\Debug\Supervisório.exe
+C:\Users\tiago\Dropbox\PI - Supervisório\PC\Supervisório\Supervisório\bin\Debug\Supervisório.pdb
+C:\Users\tiago\Dropbox\PI - Supervisório\PC\Supervisório\Supervisório\obj\Debug\Supervisório.csprojResolveAssemblyReference.cache
+C:\Users\tiago\Dropbox\PI - Supervisório\PC\Supervisório\Supervisório\obj\Debug\Supervisório.Form1.resources
+C:\Users\tiago\Dropbox\PI - Supervisório\PC\Supervisório\Supervisório\obj\Debug\Supervisório.Properties.Resources.resources
+C:\Users\tiago\Dropbox\PI - Supervisório\PC\Supervisório\Supervisório\obj\Debug\Supervisório.csproj.GenerateResource.Cache
+C:\Users\tiago\Dropbox\PI - Supervisório\PC\Supervisório\Supervisório\obj\Debug\Supervisório.exe
+C:\Users\tiago\Dropbox\PI - Supervisório\PC\Supervisório\Supervisório\obj\Debug\Supervisório.pdb
+C:\Users\tiago\Dropbox\PI - Refeitório\PI - Supervisório\PC\Supervisório\Supervisório\bin\Debug\Supervisório.exe.config
+C:\Users\tiago\Dropbox\PI - Refeitório\PI - Supervisório\PC\Supervisório\Supervisório\obj\Debug\Supervisório.exe
+C:\Users\tiago\Dropbox\PI - Refeitório\PI - Supervisório\PC\Supervisório\Supervisório\obj\Debug\Supervisório.pdb
+C:\Users\tiago\Dropbox\PI - Refeitório\PI - Supervisório\PC\Supervisório\Supervisório\bin\Debug\Supervisório.exe
+C:\Users\tiago\Dropbox\PI - Refeitório\PI - Supervisório\PC\Supervisório\Supervisório\bin\Debug\Supervisório.pdb
+C:\Users\tiago\Dropbox\PI - Refeitório\PI - Supervisório\PC\Supervisório\Supervisório\obj\Debug\Supervisório.csprojResolveAssemblyReference.cache
+C:\Users\tiago\Dropbox\PI - Refeitório\PI - Supervisório\PC\Supervisório\Supervisório\obj\Debug\Supervisório.Form1.resources
+C:\Users\tiago\Dropbox\PI - Refeitório\PI - Supervisório\PC\Supervisório\Supervisório\obj\Debug\Supervisório.Properties.Resources.resources
+C:\Users\tiago\Dropbox\PI - Refeitório\PI - Supervisório\PC\Supervisório\Supervisório\obj\Debug\Supervisório.csproj.GenerateResource.Cache
+C:\Users\tiago\Dropbox\PI - Refeitório\PI - Supervisório\PC\Supervisório\Supervisório\bin\Debug\ExcelLibrary.dll

@@ -1,0 +1,10 @@
+/Users/Tiagomorais/Dropbox/PI - Refeitório/PI - Supervisório/PC/Supervisório/Supervisório/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/Tiagomorais/Dropbox/PI - Refeitório/PI - Supervisório/PC/Supervisório/Supervisório/obj/Debug/Supervisório.Form1.resources
+/Users/Tiagomorais/Dropbox/PI - Refeitório/PI - Supervisório/PC/Supervisório/Supervisório/obj/Debug/Supervisório.o.Properties.Resources.resources
+/Users/Tiagomorais/Dropbox/PI - Refeitório/PI - Supervisório/PC/Supervisório/Supervisório/bin/Debug/Supervisório.exe.config
+/Users/Tiagomorais/Dropbox/PI - Refeitório/PI - Supervisório/PC/Supervisório/Supervisório/bin/Debug/Supervisório.exe.mdb
+/Users/Tiagomorais/Dropbox/PI - Refeitório/PI - Supervisório/PC/Supervisório/Supervisório/bin/Debug/Supervisório.pdb
+/Users/Tiagomorais/Dropbox/PI - Refeitório/PI - Supervisório/PC/Supervisório/Supervisório/bin/Debug/Supervisório.exe
+/Users/Tiagomorais/Dropbox/PI - Refeitório/PI - Supervisório/PC/Supervisório/Supervisório/obj/Debug/Supervisório.exe
+/Users/Tiagomorais/Dropbox/PI - Refeitório/PI - Supervisório/PC/Supervisório/Supervisório/obj/Debug/Supervisório.exe.mdb
+/Users/Tiagomorais/Dropbox/PI - Refeitório/PI - Supervisório/PC/Supervisório/Supervisório/obj/Debug/Supervisório.pdb
